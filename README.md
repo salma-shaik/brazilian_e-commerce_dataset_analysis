@@ -1,4 +1,4 @@
-# shopping_environmental_impact
+# Notes
 This project uses the brazilian e-commerce dataset containing 100k orders from 2016 to 2018 available at https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_sellers_dataset.csv
 
 Main goals are to study the 
